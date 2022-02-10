@@ -1,0 +1,15 @@
+// js
+// oh no
+console.log('oh no');
+let yessir = 'omg yessir';
+console.log(yessir);
+yessir = 'wait yessir isnt a word';
+console.log(yessir);
+const rushE = 'rushE rushE rushE rushE rushE rushE rushE rushE';
+console.log(rushE);
+console.log(yessir);
+console.log(`well enjoy the ${rushE}`);
+var far = 'away';
+console.log(`whats far ${far}`);
+var ending = 'goodbye world';
+console.log(`welp ima leave now so ${ending}`);
