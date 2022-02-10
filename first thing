@@ -1,0 +1,7 @@
+//js
+//first thing
+console.log('first thing')
+let firstthing = 'first here'
+console.log(firstthing)
+firstthing = 'last here'
+console.log(firstthing)
